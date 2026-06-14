@@ -1,17 +1,3 @@
-# Numerical Methods for Engineers — Soal 11.1 s/d 11.28
-**Referensi:** *Numerical Methods for Engineers*, Chapra & Canale, 7th Edition  
-**Bab:** Chapter 11 — Special Matrices and Gauss-Seidel  
-**Bahasa:** Python 3 (NumPy, SciPy, SymPy, Matplotlib)
-
----
-
-## Daftar Isi
-- [Cara Menjalankan](#cara-menjalankan)
-- [Ringkasan Metode](#ringkasan-metode)
-- [Soal 11.1 – 11.28](#daftar-soal)
-
----
-
 ## Cara Menjalankan
 
 ```bash
