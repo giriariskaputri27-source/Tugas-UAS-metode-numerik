@@ -1,6 +1,5 @@
 """
-Soal 11.5 - Cholesky Decomposition dan Solusi Sistem Simetris
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
+Soal 11.5 - Cholesky Decomposition dan Solusi Sistem Simetris.
 
 Sistem:
 [  6   15   55 ] [a0]   [ 152.6 ]

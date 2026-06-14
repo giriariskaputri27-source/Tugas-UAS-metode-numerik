@@ -1,6 +1,5 @@
 """
 Soal 11.8 - Gauss-Seidel dengan Overrelaxasi (λ=1.2) untuk Sistem Tridiagonal dari Prob. 11.1
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Sistem:
 [ 0.8  -0.4   0  ] [x1]   [ 41 ]

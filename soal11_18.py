@@ -1,6 +1,5 @@
 """
 Soal 11.18 - Sistem Linear: Produksi Elektronik
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Komponen:   Tembaga  Seng  Kaca
 Transistor:   4       1     2

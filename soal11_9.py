@@ -1,6 +1,5 @@
 """
 Soal 11.9 - Gauss-Seidel untuk Sistem Reaktor Berpasangan
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 15c1 -  3c2 -   c3 = 3800
 -3c1 + 18c2 -  6c3 = 1200

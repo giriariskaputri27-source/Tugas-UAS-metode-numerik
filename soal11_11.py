@@ -1,6 +1,5 @@
 """
 Soal 11.11 - Gauss-Seidel untuk Sistem 3x3 hingga es < 5%
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 10x1 + 2x2  - x3  = 27
 -3x1 - 6x2 + 2x3  = -61.5

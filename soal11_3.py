@@ -1,6 +1,5 @@
 """
 Soal 11.3 - Thomas Algorithm untuk Sistem Tridiagonal Crank-Nicolson
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Sistem 4x4:
 [2.01475  -0.020875   0         0       ] [T1]   [4.175 ]

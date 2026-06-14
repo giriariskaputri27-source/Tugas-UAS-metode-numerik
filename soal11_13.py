@@ -1,6 +1,5 @@
 """
-Soal 11.13 - Gauss-Seidel (a) tanpa relaxasi (b) dengan relaxasi λ=1.2
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
+Soal 11.13 - Gauss-Seidel (a) tanpa relaxasi (b) dengan relaxasi λ=1.2.
 
  2x1 - 6x2 -   x3 = -38
 -3x1 -  x2 +  7x3 = -34

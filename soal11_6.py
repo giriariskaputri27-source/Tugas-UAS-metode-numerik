@@ -1,6 +1,5 @@
 """
 Soal 11.6 - Cholesky Decomposition (dikerjakan langkah demi langkah)
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Sistem simetris:
 [  8  20  15] [x1]   [ 50]

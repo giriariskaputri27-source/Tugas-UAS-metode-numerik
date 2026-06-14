@@ -1,6 +1,5 @@
 """
 Soal 11.26 - Program Gauss-Seidel (User-Friendly)
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Diuji dengan Example 11.3.
 """

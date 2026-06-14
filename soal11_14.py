@@ -1,6 +1,5 @@
 """
-Soal 11.14 - Gambar ulang Fig. 11.5 untuk slope 1 dan -1
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
+Soal 11.14 - Gambar ulang Fig. 11.5 untuk slope 1 dan -1.
 
 Pertanyaan: Apa yang terjadi jika dua persamaan memiliki slope 1 dan -1?
 Secara grafis, iterasi Gauss-Seidel membentuk pola spiral — bisa divergen

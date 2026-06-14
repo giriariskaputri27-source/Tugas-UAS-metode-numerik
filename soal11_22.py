@@ -1,6 +1,5 @@
 """
 Soal 11.22 - Penulisan Sistem Persamaan dalam Bentuk Matriks
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 50  = 5x3 - 7x2
 4x2 + 7x3 + 30 = 0

@@ -1,6 +1,5 @@
 """
 Soal 11.16 - Solusi, Invers, dan Condition Number (Row-Sum Norm)
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 (a) Matriks 3x3:
 [1  4  9 ] [x1]   [14]

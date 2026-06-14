@@ -1,6 +1,5 @@
 """
 Soal 11.19 - Spectral Condition Number Matriks Hilbert 10x10
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Tentukan spectral condition number Hilbert 10x10.
 Berapa digit presisi yang hilang?

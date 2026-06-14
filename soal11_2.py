@@ -1,6 +1,5 @@
 """
 Soal 11.2 - Invers Matriks dari Soal 11.1 menggunakan LU Decomposition + Unit Vectors
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 """
 
 import numpy as np

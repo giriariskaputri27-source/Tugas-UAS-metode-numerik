@@ -1,6 +1,5 @@
 """
 Soal 11.28 - Pentadiagonal System Solver (Bandwidth = 5)
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Sistem pentadiagonal (bandwidth 5):
   f1  g1  h1

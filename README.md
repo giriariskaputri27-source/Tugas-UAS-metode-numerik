@@ -1,15 +1,3 @@
-## Cara Menjalankan
-
-```bash
-pip install -r requirements.txt
-python soal11_1.py
-# dst.
-```
-
----
-
-## Ringkasan Metode
-
 ### Thomas Algorithm (TDMA)
 Algoritma efisien untuk sistem **tridiagonal** berukuran n. Terdiri dari dua tahap:
 1. **Forward sweep**: eliminasi subdiagonal
@@ -307,4 +295,3 @@ Algoritma eliminasi Gauss untuk sistem pita diterapkan secara efisien dengan mem
 
 ---
 
-*Dibuat untuk keperluan tugas Metode Numerik — Chapra & Canale Chapter 11.*

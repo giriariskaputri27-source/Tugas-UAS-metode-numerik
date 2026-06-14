@@ -1,6 +1,5 @@
 """
 Soal 11.7 - Cholesky Decomposition dari Matriks Diagonal
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 [A] = [[9, 0, 0],
        [0,25, 0],

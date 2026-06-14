@@ -1,6 +1,5 @@
 """
 Soal 11.12 - Gauss-Seidel (a) tanpa relaxasi (b) dengan relaxasi λ=0.95
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 -3x1 +  x2 + 12x3 = 50
  6x1 -  x2 -   x3 = 3

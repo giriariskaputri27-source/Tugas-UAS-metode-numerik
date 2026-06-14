@@ -1,6 +1,5 @@
 """
 Soal 11.23 - Jumlah Operasi: Gauss Elimination vs Thomas Algorithm
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Gauss Elimination: ~2n³/3 operasi
 Thomas Algorithm: ~8n - 7 operasi (O(n) — jauh lebih efisien untuk tridiagonal)

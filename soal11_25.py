@@ -1,6 +1,5 @@
 """
 Soal 11.25 - Program Cholesky Decomposition (User-Friendly)
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Diuji dengan sistem dari Example 11.2.
 """

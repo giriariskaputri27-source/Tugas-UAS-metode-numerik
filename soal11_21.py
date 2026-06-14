@@ -1,6 +1,5 @@
 """
 Soal 11.21 - Membuat Matriks Augmented [A | I] dalam Python
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Dalam MATLAB: Aug = [A, eye(size(A))]
 Ekivalennya dalam Python dengan NumPy: np.hstack([A, np.eye(n)])

@@ -1,6 +1,5 @@
 """
 Soal 11.15 - Identifikasi Set Persamaan yang Tidak Konvergen dengan Gauss-Seidel
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Set One:   8x + 3y + z = 12 | -6x + 7z = 1  | 2x + 4y - z = 5
 Set Two:   x + y + 5z = 7   | x + 4y - z = 4  | 3x + y - z = 4

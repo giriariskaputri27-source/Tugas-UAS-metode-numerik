@@ -1,6 +1,5 @@
 """
 Soal 11.27 - ODE Steady-State Kanal 1D → Sistem Linear
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 ODE: 0 = D·d²c/dx² - U·dc/dx - k·c
 D=2, U=1, k=0.2

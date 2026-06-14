@@ -1,6 +1,5 @@
 """
 Soal 11.24 - Program Thomas Algorithm (User-Friendly)
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Implementasi Thomas algorithm yang user-friendly.
 Diuji dengan sistem dari Example 11.1.

@@ -1,6 +1,5 @@
 """
 Soal 11.4 - Verifikasi Cholesky Decomposition dari Example 11.2
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 Dari Example 11.2:
 [A] = [L][L]^T  →  verifikasi bahwa [L][L]^T = [A]

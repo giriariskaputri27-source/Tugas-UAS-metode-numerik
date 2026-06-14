@@ -1,6 +1,5 @@
 """
 Soal 11.20 - Spectral Condition Number Matriks Vandermonde 6x6
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 x1=4, x2=2, x3=7, x4=10, x5=3, x6=5
 Vandermonde[i,j] = x_i^j  (j=0..n-1)

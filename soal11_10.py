@@ -1,6 +1,5 @@
 """
 Soal 11.10 - Jacobi Iteration untuk Sistem Reaktor (Prob. 11.9)
-Buku: Numerical Methods for Engineers, Chapra & Canale, 7th Ed.
 
 15c1 -  3c2 -   c3 = 3800
 -3c1 + 18c2 -  6c3 = 1200
